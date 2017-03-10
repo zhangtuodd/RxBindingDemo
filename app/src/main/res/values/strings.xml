@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxBindingDemo</string>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <string name="usual_approach">延迟监听</string>
+    <string name="reactive_approach">实时监听</string>
+</resources>
